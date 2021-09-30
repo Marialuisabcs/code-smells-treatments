@@ -1,7 +1,7 @@
 // 2d - remoção das bibliotecas não utilizadas
 import java.util.ArrayList;
 
-public class ParImpar{
+public class ImparParRefactor{
   // 1d - Utilização de nome de variáveis e métodos mais legíveis a fim de eliminar comentários desnecessários
   // 5d - Classe pode ser única e os atributos globais foram reduzidos;
   public static ArrayList<Integer> pares = new ArrayList<Integer>();
